@@ -1,8 +1,8 @@
 <h1 align="center">👋 Welcome to Divya Mohan's GitHub!</h1>
 <h3 align="center">Cybersecurity Researcher | Developer | Lifelong Student</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyamohan1993&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
@@ -11,8 +11,8 @@
 - **📝 Regular Writer:** Sharing insights on technology and education at [dmj.one](https://dmj.one)  
 - **🌱 Always Learning:** Specializing in z/OS, Cybersecurity, and Cloud Technologies  
 - **👯 Collaboration Goals:** Looking to collaborate on open-source and impactful projects  
-- **🎓 Education:** B.Tech in Computer Science (Cybersecurity) at Shoolini University  
 - **🚀 Vision:** Making quality education accessible for everyone through my initiative, dmj.one  
+<!-- - **🎓 Education:** B.Tech in Computer Science (Cybersecurity) at Shoolini University  -->
 
 ---
 
@@ -98,8 +98,8 @@
 
 ### 💡 Projects to Explore
 - **[dmj.one](https://github.com/dmjone/):** Building an accessible platform for quality education  
-- **[Collaborative Document Editor](https://dmj.one/docs/random_id):** A real-time editor leveraging Cloudflare's edge technologies  
-- **[Medicine Sharing Initiative](https://medicine.dmj.one):** Public welfare platform for medicine availability  
+- **[Collaborative Document Editor](https://dmj.one/docs/new):** A real-time editor leveraging Cloudflare's edge technologies  
+<!-- - **[Medicine Sharing Initiative](https://medicine.dmj.one):** Public welfare platform for medicine availability  -->
 
 ---
 
