@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to Divya Mohan's GitHub!</h1>
-<h5 align="center">Cybersecurity Researcher | Developer | Lifelong Student | <a href="https://dmj.one/resume/">Resume</a></h5>
+<h3 align="center">Cybersecurity Researcher | Developer | Lifelong Student | <a href="https://dmj.one/resume/">Resume</a></h3>
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyamohan1993&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> -->
