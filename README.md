@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank" alt="HackerRank" /></a>
   <a href="https://www.youtube.com/c/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>  
-  <a href="https://twitter.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Twitter" /></a>
+  <a href="https://twitter.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/X(TWITTER)-1DA1F2?style=for-the-badge&logo=x" alt="Twitter" /></a>
   <a href="https://leetcode.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leet" alt="LeetCode" /></a>
   <a href="https://kaggle.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" /></a>
 </p>
