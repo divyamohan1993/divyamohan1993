@@ -97,9 +97,7 @@
 ---
 
 ### 💡 Projects to Explore
-- **[dmj.one](https://github.com/dmjone/):** Building an accessible platform for quality education  
-- **[Collaborative Document Editor](https://dmj.one/docs/new):** A real-time editor leveraging Cloudflare's edge technologies  
-<!-- - **[Medicine Sharing Initiative](https://medicine.dmj.one):** Public welfare platform for medicine availability  -->
+- **[dmj.one](https://dmj.one/):** The umbrella that holds every other product in this catalogue. Think of it the way Alphabet holds Google · the parent organisation, the welfare commitment, the open-source licence, the deploy infrastructure, the credit line for student capstones, the public face. Since August 2022. Open. Free. Bharat-first. [GitHub](https://github.com/dmjone/)
 
 ---
 
