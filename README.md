@@ -107,7 +107,13 @@ Every one is a real student, a real production deploy, and a real GitHub account
 
 ### The toolbelt
 
-**Models** · Claude (Sonnet, Opus, Haiku) · Gemini 2.5 / 3 Flash · Gemma 3 27b · Qwen 2.5 · Whisper · Piper · NotebookLM · SBERT · NLI Deberta-v3 · ONNX Runtime · Transformers.js · Ollama. **Orchestration** · Claude Code, custom MCP servers, parallel sub-agent dispatch, LangGraph, Kahn-sorted DAG pipelines, ReAct tracing, calibrated-confidence verifiers. **Languages** · TypeScript, Python, Rust, Bash, PowerShell, JavaScript, Java, C, C++. **Frameworks** · Next.js, FastAPI, Express, Hono, React 19, Vite, Tailwind, Streamlit. **Cloud** · Google Cloud Run, AlloyDB, Earth Engine, Maps Platform, Cloudflare Workers + D1, Firebase, AMD XDNA NPU. **Indian stack** · ONDC, Beckn, FHIR R4, AgMarkNet, Bhashini, Sarvam, Krutrim, Twilio. **Security** · ML-KEM-768, FROST threshold, OPAQUE, FIDO2 / WebAuthn, AES-256-GCM, Argon2.
+**Models** · Claude (Sonnet, Opus, Haiku) · Gemini/Gemma Series · Qwen 2.5 · Whisper · Piper · NotebookLM · SBERT · NLI Deberta-v3 · ONNX Runtime · Transformers.js · Ollama.
+**Orchestration** · Claude Code, custom MCP servers, parallel sub-agent dispatch, LangGraph, Kahn-sorted DAG pipelines, ReAct tracing, calibrated-confidence verifiers.
+**Languages** · TypeScript, Python, Rust, Bash, PowerShell, JavaScript, Java, C, C++.
+**Frameworks** · Next.js, FastAPI, Express, Hono, React 19, Vite, Tailwind, Streamlit. 
+**Cloud** · Google Cloud Run, AlloyDB, Earth Engine, Maps Platform, Cloudflare Workers + D1, Firebase, AMD XDNA NPU.
+**Indian stack** · ONDC, Beckn, FHIR R4, AgMarkNet, Bhashini, Sarvam, Krutrim, Twilio. 
+**Security** · ML-KEM-768/1024, FROST threshold, OPAQUE, FIDO2 / WebAuthn, AEGIS-256, Argon2.
 
 ---
 
