@@ -97,7 +97,7 @@
 ---
 
 ### 💡 Projects to Explore
-- **[dmj.one](https://dmj.one/):** The umbrella that holds every other product in this catalogue. Think of it the way Alphabet holds Google · the parent organisation, the welfare commitment, the open-source licence, the deploy infrastructure, the credit line for student capstones, the public face. Since August 2022. Open. Free. Bharat-first. [GitHub](https://github.com/dmjone/)
+- **[dmj.one](https://dmj.one/):** The umbrella that holds 60+ projects, dreams, success stories, mentorships, ideations, and journeys together with the people who dream, manifest towards Aatmnirbhar Bharat together as one! Think of it the way Alphabet holds Google · the parent organisation, the welfare commitment, the open-source licence, the deploy infrastructure, the credit line for student capstones, the public face. Since August 2022. Open. Free. Bharat-first. [GitHub](https://github.com/dmjone/)
 
 ---
 
