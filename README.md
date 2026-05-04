@@ -1,114 +1,154 @@
-<h1 align="center">👋 Welcome to Divya Mohan's GitHub!</h1>
-<h3 align="center">Cybersecurity Researcher | Developer | Lifelong Student | <a href="https://dmj.one/resume/">Resume</a></h3>
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyamohan1993&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
+<h1 align="center">Divya Mohan</h1>
 
----
+<p align="center"><strong>Engineer · Founder of <a href="https://dmj.one">dmj.one</a></strong></p>
 
-### 🌟 About Me
-- **🔭 Current Project:** [dmj.one](https://github.com/dmjone/)  
-- **📝 Regular Writer:** Sharing insights on technology and education at [dmj.one](https://dmj.one)  
-- **🌱 Always Learning:** Specializing in z/OS, Cybersecurity, and Cloud Technologies  
-- **👯 Collaboration Goals:** Looking to collaborate on open-source and impactful projects  
-- **🚀 Vision:** Making quality education accessible for everyone through my initiative, dmj.one  
-<!-- - **🎓 Education:** B.Tech in Computer Science (Cybersecurity) at Shoolini University  -->
+<p align="center"><em>Dream. Manifest. Journey. Together as One.</em><br>
+Working for one mission · <strong>Aatmanirbhar Bharat 2047.</strong></p>
 
----
-
-### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank" alt="HackerRank" /></a>
-  <a href="https://www.youtube.com/c/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>  
-  <a href="https://twitter.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/X(TWITTER)-1DA1F2?style=for-the-badge&logo=x" alt="Twitter" /></a>
-  <a href="https://leetcode.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leet" alt="LeetCode" /></a>
-  <a href="https://kaggle.com/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" /></a>
+  Fifty-nine production-grade products in twenty-one months.<br>
+  One engineer · with the right tools, the right process, and a small team of mentees.
+</p>
+
+<p align="center">
+  <a href="https://dmj.one/catalogue/"><img src="https://img.shields.io/badge/catalogue-59%20products-d8631a?style=for-the-badge" alt="Catalogue · 59 products" /></a>
+  <a href="https://dmj.one"><img src="https://img.shields.io/badge/dmj.one-the%20umbrella-138808?style=for-the-badge" alt="dmj.one" /></a>
+  <a href="mailto:contact@dmj.one"><img src="https://img.shields.io/badge/hire-contact%40dmj.one-1f3a5f?style=for-the-badge" alt="contact@dmj.one" /></a>
+  <a href="https://linkedin.com/in/divyamohan1993"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages
+### The shape of the work
+
+The whole catalogue is at **[dmj.one/catalogue](https://dmj.one/catalogue/)**. Fifty-nine products. Six categories. Every entry has its own page · the human problem, what it does, how it works, proof it really exists.
+
+| What | Numbers |
+|---|---|
+| Products shipped or mentored to production | **59** |
+| Time window | August 2022 to today |
+| Built for Bharat (voice-first, twenty-two languages, slow-phone) | **20** |
+| Mentored student capstones, all live on real domains | **8+** |
+| Indian-stack platforms used (ONDC, Beckn, Bhashini, FHIR, DPDP) | **5** |
+| Accessibility standard, every product | WCAG 2.2 AAA |
+
+→ **[Open the catalogue](https://dmj.one/catalogue/)**
+
+---
+
+### How the velocity actually happens
+
+I am not faster than other engineers. I run **a different process**. Every product in the catalogue ships using the same operating model:
+
+- **AI agents do the heavy typing.** Claude Code (Sonnet / Opus / Haiku), Gemini 2.5 / 3 Flash, Gemma on-device, Qwen, Whisper, Piper · each model is picked for the task it is actually good at.
+- **MCP servers and agentic workflows do the orchestration.** Custom MCPs, parallel sub-agent dispatch, plan-execute-review loops, deterministic policy gates, calibrated-confidence verifiers. The agents call the agents.
+- **I run the system.** Define the product. Decompose the work. Pick the right model for each piece. Set the budget, the policy and the audit trail. Verify before claiming done. Ship.
+- **Quality stays human-grade.** Every product runs WCAG 2.2 AAA, DPDP-compliant, post-quantum-safe where it matters, with real tests and real deployments. The AI saves keystrokes; it does not save judgement.
+
+This is what a 2026 engineer looks like. Not a prompt-typer. An orchestrator who decides what to build, picks the right tools, runs them in parallel, and owns the outcome.
+
+The catalogue is the proof.
+
+---
+
+### Hire me
+
+I take on problems where:
+
+- **Bharat is the hardest user.** ₹6,000 phone on patchy 2G is the design target, not the edge case.
+- **The security has to survive the next decade.** Post-quantum primitives (ML-KEM-768, ML-DSA), zero-trust, FIDO2, signed audit by default.
+- **The team needs an engineer who can do the whole loop.** Design, database, model, deploy, docs, dashboard. End to end.
+- **You want AI velocity without AI slop.** Multi-agent orchestration, output-grade-verified, production-shaped.
+
+**Open to:**
+
+- **Founding engineer** roles · early-stage, equity-aligned, problem-led
+- **Senior consultancy** invitations · short engagements where speed and judgement both matter
+- **AI orchestration / multi-agent systems** advisory · platform builders, agent SDK teams, agentic product teams
+- **Capstone mentorship contracts** · institutional partnerships for student teams who want to ship to production rather than to a slide deck
+
+**Reach me:** [contact@dmj.one](mailto:contact@dmj.one) · [LinkedIn](https://linkedin.com/in/divyamohan1993) · [Resume](https://dmj.one/resume/)
+
+---
+
+### A few products with live URLs
+
+| Live | What it is |
+|---|---|
+| [kisanmind.dmj.one](https://kisanmind.dmj.one) | Satellite-to-voice agricultural intelligence for 150M Indian farmers. Four satellites · twenty-two languages · one phone call. |
+| [biovault.dmj.one](https://biovault.dmj.one) | Multi-modal biometric trust score · face + voice + keystroke + WebAuthn passkey on Cloud Run. |
+| [sso-system-demo.dmj.one](https://sso-system-demo.dmj.one) | Military-grade SSO. ML-KEM-768 PQ KEM. FROST threshold signing. OPAQUE. FIDO2. |
+| [sentinelcloud.dmj.one](https://sentinelcloud.dmj.one) | Five-agent autonomous DevOps engineer with deterministic policy gates. Mentored capstone. |
+| [bharat-evote.dmj.one](https://bharat-evote.dmj.one) | Auditable remote voting for Indian elections. Sealed-ballot · public Merkle root. Mentored capstone. |
+| [sevasetu.dmj.one](https://sevasetu.dmj.one) | ONDC-connected local services marketplace for Bharat. Mentored capstone. |
+| [astha-capstone.dmj.one](https://astha-capstone.dmj.one) | Three-in-one PWA · conversational resume builder + 9-agent screening + verified-skills trust layer. Mentored capstone. |
+| [jalseva.dmj.one](https://jalseva.dmj.one) | Voice-first water tanker delivery for the 163M Indians without clean water. |
+| [greenscale.dmj.one](https://greenscale.dmj.one) | Carbon-aware multi-region serverless routing. Mentored capstone. |
+| [verifiedtutor.dmj.one](https://verifiedtutor.dmj.one) | NLI-verified Class 12 CS tutor that refuses to make things up. Mentored capstone. |
+
+→ **[All 59 products in the catalogue](https://dmj.one/catalogue/)**
+
+---
+
+### Mentorship · capstones I have taken from idea to live URL
+
+Every one is a real student, a real production deploy, and a real GitHub account in the student's name with full attribution preserved. The repo lives with them. I keep the mentorship credit.
+
+- **[SevaSetu](https://sevasetu.dmj.one)** · Abhay Chandel · ONDC services marketplace
+- **[Bharat eVote](https://bharat-evote.dmj.one)** · Ankit Saini · auditable Indian voting
+- **[VerifiedTutor](https://verifiedtutor.dmj.one)** · Kaustuv Sharma · NLI-verified CS tutor
+- **[SentinelCloud](https://sentinelcloud.dmj.one)** · Rohit Kumar · multi-agent DevOps engineer
+- **[ResumeAI / Saathi](https://astha-capstone.dmj.one)** · Astha Chandel · 9-agent resume + verified-skills
+- **[GharSetu](https://gharsetu.dmj.one)** · Akshit Thakur · ONDC student-housing
+- **[GreenScale](https://greenscale.dmj.one)** · Anshuman Mohanty · carbon-aware serverless routing
+- **[RecoveryPilot](https://github.com/kumkum-thakur/recovery-pilot)** · Kumkum Thakur · 145K LOC post-operative care platform
+
+---
+
+### The toolbelt
+
+**Models** · Claude (Sonnet, Opus, Haiku) · Gemini 2.5 / 3 Flash · Gemma 3 27b · Qwen 2.5 · Whisper · Piper · NotebookLM · SBERT · NLI Deberta-v3 · ONNX Runtime · Transformers.js · Ollama. **Orchestration** · Claude Code, custom MCP servers, parallel sub-agent dispatch, LangGraph, Kahn-sorted DAG pipelines, ReAct tracing, calibrated-confidence verifiers. **Languages** · TypeScript, Python, Rust, Bash, PowerShell, JavaScript, Java, C, C++. **Frameworks** · Next.js, FastAPI, Express, Hono, React 19, Vite, Tailwind, Streamlit. **Cloud** · Google Cloud Run, AlloyDB, Earth Engine, Maps Platform, Cloudflare Workers + D1, Firebase, AMD XDNA NPU. **Indian stack** · ONDC, Beckn, FHIR R4, AgMarkNet, Bhashini, Sarvam, Krutrim, Twilio. **Security** · ML-KEM-768, FROST threshold, OPAQUE, FIDO2 / WebAuthn, AES-256-GCM, Argon2.
+
+---
+
+### Defaults across everything I ship
+
+- **WCAG 2.2 AAA accessibility** from line one. 7:1 contrast. Full keyboard nav. ARIA. Reduced-motion support.
+- **Twenty-two-Indian-language ready.** Voice-first where the use-case allows it.
+- **Slow-phone-first.** ₹6,000 phone on patchy 2G is the design target.
+- **DPDP-compliant** by default. India data stays in India. Real deletion. Explicit consent.
+- **Quantum-secure** in security-critical builds. ML-KEM, ML-DSA, hybrid post-quantum primitives.
+- **Verified before claimed.** Every "done" claim is backed by a passing test, a reachable URL, or a measured number.
+
+---
+
+### Background
+
+B.Tech, Computer Science (Cybersecurity specialisation), Shoolini University · Solan, Himachal Pradesh.
+
+Founder · [dmj.one](https://dmj.one) · a public-welfare initiative for free, accessible computer science education and Bharat-scale software. Sustained since August 2022.
+
+The work has one mission: **Aatmanirbhar Bharat by 2047** · a self-reliant India whose software, security and AI are built by Indians, for the India that lives in twenty-two languages on a slow-phone in a small town. Everything in the catalogue serves that mission unless explicitly scoped otherwise. The motto, written into every product since day one: **Dream, Manifest and Journey, Together as One.**
+
+---
+
+### Where to find me
+
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.perl.org/" target="_blank"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" /></a>
+  <a href="https://dmj.one/catalogue/" target="_blank"><img src="https://img.shields.io/badge/Catalogue-d8631a?style=for-the-badge" alt="Catalogue" /></a>
+  <a href="https://dmj.one" target="_blank"><img src="https://img.shields.io/badge/dmj.one-138808?style=for-the-badge" alt="dmj.one" /></a>
+  <a href="mailto:contact@dmj.one" target="_blank"><img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dmjone" target="_blank"><img src="https://img.shields.io/badge/dmjone-org-181717?style=for-the-badge&logo=github&logoColor=white" alt="dmjone GitHub org" /></a>
+  <a href="https://dmj.one/resume/" target="_blank"><img src="https://img.shields.io/badge/Resume-5a3a1f?style=for-the-badge" alt="Resume" /></a>
 </p>
 
 ---
 
-### 🛠️ Skills
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
-  <a href="https://www.ibm.com/products/zos" target="_blank"><img src="https://img.shields.io/badge/-z%2FOS-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="z/OS" /></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" /></a>  
-  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" /></a>  
+  <sub>If your problem is in the <a href="https://dmj.one/catalogue/">catalogue</a>, the work has already begun. If it is not, that is exactly the kind worth starting.</sub>
 </p>
 
----
-
-### 🛠️ Tools
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
-  <a href="https://cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /></a>
-  <a href="https://www.adobe.com/in/products/after-effects.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" /></a>
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" /></a>
-  <a href="https://www.adobe.com/in/products/audition.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Audition-00D4F7?style=for-the-badge&logo=adobeaudition&logoColor=white" alt="Adobe Audition" /></a>
-  <a href="https://www.adobe.com/in/products/media-encoder.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Media%20Encoder-9999FF?style=for-the-badge&logo=adobemediaencoder&logoColor=white" alt="Adobe Media Encoder" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" /></a>
-  <a href="https://www.adobe.com/in/products/animate.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Animate-FF9A00?style=for-the-badge&logo=adobeanimate&logoColor=white" alt="Adobe Animate" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyamohan1993&show_icons=true&locale=en&layout=compact&hide=html,css&theme=transparent&hide_border=true" alt="Languages used across shipped products" />
 </p>
-
-
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyamohan1993&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyamohan1993" alt="GitHub Streak" />
-</p>
-
----
-
-### 💡 Projects to Explore
-- **[dmj.one](https://dmj.one/):** The umbrella that holds 60+ projects, dreams, success stories, mentorships, ideations, and journeys together with the people who dream, manifest towards Aatmnirbhar Bharat together as one! Think of it the way Alphabet holds Google · the parent organisation, the welfare commitment, the open-source licence, the deploy infrastructure, the credit line for student capstones, the public face. Since August 2022. Open. Free. Bharat-first. [GitHub](https://github.com/dmjone/)
-
----
-
-### 🤝 Support My Work
-If you'd like to support my projects, you can:
-<p align="center">
-  <a href="https://www.buymeacoffee.com/divyamohan1993"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" /></a>
-  <a href="https://ko-fi.com/divyamohan1993"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" /></a>
-</p>
-
----
-
-### ✨ Fun Fact
-_"Quality education for all"_ is not just my motto, but a mission I live by every day.
