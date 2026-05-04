@@ -45,7 +45,7 @@ I am not faster than other engineers. I run **a different process**. Every produ
 - **I run the system.** Define the product. Decompose the work. Pick the right model for each piece. Set the budget, the policy and the audit trail. Verify before claiming done. Ship.
 - **Quality stays human-grade.** Every product runs WCAG 2.2 AAA, DPDP-compliant, post-quantum-safe where it matters, with real tests and real deployments. The AI saves keystrokes; it does not save judgement.
 
-This is what a 2026 engineer looks like. Not a prompt-typer. An orchestrator who decides what to build, picks the right tools, runs them in parallel, and owns the outcome.
+I am an orchestrator who decides what to build, picks the right tools, runs them in parallel, and owns the outcome.
 
 The catalogue is the proof.
 
