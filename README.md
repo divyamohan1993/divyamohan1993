@@ -1,6 +1,6 @@
 <h1 align="center">Divya Mohan</h1>
 
-<p align="center"><strong>Engineer · Founder of <a href="https://dmj.one">dmj.one</a></strong></p>
+<p align="center"><strong>Cybersecurity Researcher · Engineer · Founder of <a href="https://dmj.one">dmj.one</a> · Lifelong Learner</strong></p>
 
 <p align="center"><em>Dream. Manifest. Journey. Together as One.</em><br>
 Working for one mission · <strong>Aatmanirbhar Bharat 2047.</strong></p>
