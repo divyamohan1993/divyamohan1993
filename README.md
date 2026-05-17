@@ -11,7 +11,7 @@ Working for one mission · <strong>Aatmanirbhar Bharat 2047.</strong></p>
 </p>
 
 <p align="center">
-  <a href="https://dmj.one/catalogue/"><img src="https://img.shields.io/badge/catalogue-59%20products-d8631a?style=for-the-badge" alt="Catalogue · 59 products" /></a>
+  <a href="https://dmj.one/work/"><img src="https://img.shields.io/badge/Work-59%20products-d8631a?style=for-the-badge" alt="Work · 59 products" /></a>
   <a href="https://dmj.one"><img src="https://img.shields.io/badge/dmj.one-the%20umbrella-138808?style=for-the-badge" alt="dmj.one" /></a>
   <a href="mailto:contact@dmj.one"><img src="https://img.shields.io/badge/hire-contact%40dmj.one-1f3a5f?style=for-the-badge" alt="contact@dmj.one" /></a>
   <a href="https://linkedin.com/in/divyamohan1993"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,7 +21,7 @@ Working for one mission · <strong>Aatmanirbhar Bharat 2047.</strong></p>
 
 ### The shape of the work
 
-The whole catalogue is at **[dmj.one/catalogue](https://dmj.one/catalogue/)**. Fifty-nine products. Six categories. Every entry has its own page · the human problem, what it does, how it works, proof it really exists.
+The whole work is at **[dmj.one/work](https://dmj.one/work/)**. Fifty-nine products. Six categories. Every entry has its own page · the human problem, what it does, how it works, proof it really exists.
 
 | What | Numbers |
 |---|---|
@@ -32,13 +32,13 @@ The whole catalogue is at **[dmj.one/catalogue](https://dmj.one/catalogue/)**. F
 | Indian-stack platforms used (ONDC, Beckn, Bhashini, FHIR, DPDP) | **5** |
 | Accessibility standard, every product | WCAG 2.2 AAA |
 
-→ **[Open the catalogue](https://dmj.one/catalogue/)**
+→ **[Open the work](https://dmj.one/work/)**
 
 ---
 
 ### How the velocity actually happens
 
-I am not faster than other engineers. I run **a different process**. Every product in the catalogue ships using the same operating model:
+I am not faster than other engineers. I run **a different process**. Every product in the work ships using the same operating model:
 
 - **AI agents do the heavy typing.** Claude Code (Sonnet / Opus / Haiku), Gemini 2.5 / 3 Flash, Gemma on-device, Qwen, Whisper, Piper · each model is picked for the task it is actually good at.
 - **MCP servers and agentic workflows do the orchestration.** Custom MCPs, parallel sub-agent dispatch, plan-execute-review loops, deterministic policy gates, calibrated-confidence verifiers. The agents call the agents.
@@ -47,7 +47,7 @@ I am not faster than other engineers. I run **a different process**. Every produ
 
 I am an orchestrator who decides what to build, picks the right tools, runs them in parallel, and owns the outcome.
 
-The catalogue is the proof.
+The work is the proof.
 
 ---
 
@@ -86,7 +86,7 @@ I take on problems where:
 | [greenscale.dmj.one](https://greenscale.dmj.one) | Carbon-aware multi-region serverless routing. Mentored capstone. |
 | [verifiedtutor.dmj.one](https://verifiedtutor.dmj.one) | NLI-verified Class 12 CS tutor that refuses to make things up. Mentored capstone. |
 
-→ **[All 59 products in the catalogue](https://dmj.one/catalogue/)**
+→ **[All 59 products in the work](https://dmj.one/work/)**
 
 ---
 
@@ -134,14 +134,14 @@ B.Tech, Computer Science (Cybersecurity specialisation), Shoolini University · 
 
 Founder · [dmj.one](https://dmj.one) · a public-welfare initiative for free, accessible computer science education and Bharat-scale software. Sustained since August 2022.
 
-The work has one mission: **Aatmanirbhar Bharat by 2047** · a self-reliant India whose software, security and AI are built by Indians, for the India that lives in twenty-two languages on a slow-phone in a small town. Everything in the catalogue serves that mission unless explicitly scoped otherwise. The motto, written into every product since day one: **Dream, Manifest and Journey, Together as One.**
+The work has one mission: **Aatmanirbhar Bharat by 2047** · a self-reliant India whose software, security and AI are built by Indians, for the India that lives in twenty-two languages on a slow-phone in a small town. Everything in the work serves that mission unless explicitly scoped otherwise. The motto, written into every product since day one: **Dream, Manifest and Journey, Together as One.**
 
 ---
 
 ### Where to find me
 
 <p align="center">
-  <a href="https://dmj.one/catalogue/" target="_blank"><img src="https://img.shields.io/badge/Catalogue-d8631a?style=for-the-badge" alt="Catalogue" /></a>
+  <a href="https://dmj.one/work/" target="_blank"><img src="https://img.shields.io/badge/work-d8631a?style=for-the-badge" alt="work" /></a>
   <a href="https://dmj.one" target="_blank"><img src="https://img.shields.io/badge/dmj.one-138808?style=for-the-badge" alt="dmj.one" /></a>
   <a href="mailto:contact@dmj.one" target="_blank"><img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/divyamohan1993" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -152,7 +152,7 @@ The work has one mission: **Aatmanirbhar Bharat by 2047** · a self-reliant Indi
 ---
 
 <p align="center">
-  <sub>If your problem is in the <a href="https://dmj.one/catalogue/">catalogue</a>, the work has already begun. If it is not, that is exactly the kind worth starting.</sub>
+  <sub>If your problem is in the <a href="https://dmj.one/work/">work</a>, the work has already begun. If it is not, that is exactly the kind worth starting.</sub>
 </p>
 
 <p align="center">
