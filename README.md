@@ -84,6 +84,7 @@ I take on problems where:
 | [astha-capstone.dmj.one](https://astha-capstone.dmj.one) | Three-in-one PWA · conversational resume builder + 9-agent screening + verified-skills trust layer. Mentored capstone. |
 | [jalseva.dmj.one](https://jalseva.dmj.one) | Voice-first water tanker delivery for the 163M Indians without clean water. |
 | [greenscale.dmj.one](https://greenscale.dmj.one) | Carbon-aware multi-region serverless routing. Mentored capstone. |
+| [localpulse.dmj.one](https://localpulse.dmj.one) | AI Crisis Helpline for Small Towns. Mentored capstone. |
 | [verifiedtutor.dmj.one](https://verifiedtutor.dmj.one) | NLI-verified Class 12 CS tutor that refuses to make things up. Mentored capstone. |
 
 → **[All 59 products in the work](https://dmj.one/work/)**
@@ -101,6 +102,7 @@ Every one is a real student, a real production deploy, and a real GitHub account
 - **[ResumeAI / Saathi](https://astha-capstone.dmj.one)** · Astha Chandel · 9-agent resume + verified-skills
 - **[GharSetu](https://gharsetu.dmj.one)** · Akshit Thakur · ONDC student-housing
 - **[GreenScale](https://greenscale.dmj.one)** · Anshuman Mohanty · carbon-aware serverless routing
+- **[LocalPulse](https://localpulse.dmj.one)** · Anshuman Mohanty · AI Crisis Helpline for small towns
 - **[RecoveryPilot](https://github.com/kumkum-thakur/recovery-pilot)** · Kumkum Thakur · 145K LOC post-operative care platform
 
 ---
