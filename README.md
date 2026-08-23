@@ -71,16 +71,22 @@ I take on problems where:
 
 ---
 
-### A few products with live URLs
+### Projects worth opening first
 
-| Live | What it is |
-|---|---|
-| [parikshan.dmj.one](https://parikshan.dmj.one) | Secure remote coding-exam platform with two-device integrity checks, a Python judge sandbox, private tests, and Cloud Run Jobs. |
-| [aether.dmj.one](https://aether.dmj.one) | Edge-first disaster-response assessment build that compresses SOS audio for poor networks and returns a structured multilingual dispatch brief. |
-| [issue.dmj.one](https://issue.dmj.one) / [verify.dmj.one](https://verify.dmj.one) | Post-quantum-signed digital credentials with gated PDFs, public verification, append-only anchoring, and provable revocation. |
-| [nfpc.dmj.one](https://nfpc.dmj.one) | Money-mule detection using behavioral, temporal, graph, and anomaly features. Co-developed with Kumkum Thakur; hidden-test AUC-ROC 0.955815. |
-| [gharsetu.dmj.one](https://gharsetu.dmj.one) | Bilingual student-housing marketplace with verified-renter workflows and simulated ONDC interoperability. Mentored capstone built by Akshit Thakur. |
-| [sso-system-demo.dmj.one](https://sso-system-demo.dmj.one) | Compromise-resilient SSO research demo using OPAQUE, FROST threshold signing, post-quantum exchange, and WebAuthn. Evaluation build, not production-certified. |
+| Project | Open | What it is |
+|---|---|---|
+| **Parikshan** | [Live demo](https://parikshan.dmj.one) · source private | Secure remote coding-exam platform with two-device integrity checks, a Python judge sandbox, private tests, and Cloud Run Jobs. |
+| **GharSetu** | [Live demo](https://gharsetu.dmj.one) · [Source](https://github.com/divyamohan1993/gharsetu) | Bilingual student-housing marketplace with verified-renter workflows and simulated ONDC interoperability. Mentored capstone built by Akshit Thakur. |
+| **Aether** | [Live demo](https://aether.dmj.one) · [Source](https://github.com/divyamohan1993/aether) | Edge-first disaster-response assessment build that compresses SOS audio for poor networks and returns a structured multilingual dispatch brief. |
+| **dmj.one Trust Services** | [Issuer](https://issue.dmj.one) · [Verifier](https://verify.dmj.one) · [Source](https://github.com/divyamohan1993/dmjone-trust-services) | Post-quantum-signed credentials with gated PDFs, public verification, append-only anchoring, and provable revocation. |
+| **dmj.one** | [Live platform](https://dmj.one) · [Source](https://github.com/dmjone/dmjone) | Free computer-science and cybersecurity learning platform. Founder and active maintainer since 2022. |
+| **NFPC Mule Detection** | [Live demo](https://nfpc.dmj.one) · [Source](https://github.com/divyamohan1993/nfpc-mule-detection) | Graph and behavioral fraud-detection ensemble, co-developed with Kumkum Thakur; hidden-test AUC-ROC 0.955815. |
+| **Workday Simulator** | [Source](https://github.com/divyamohan1993/workday-simulator) | Self-hosted IAM/IGA simulator for JML, SCIM, SoD, connectors, provisioning, faults, and attack scenarios. |
+| **MILNET SSO** | [Research demo](https://sso-system-demo.dmj.one) · [Source](https://github.com/divyamohan1993/enterprise-sso-system) | OPAQUE, FROST threshold signing, post-quantum exchange, OAuth/OIDC, and WebAuthn. Evaluation build, not production-certified. |
+| **Zero-Trust MySQL** | [Source](https://github.com/divyamohan1993/zero-trust-mysql) | Hardened MySQL reference using TLS 1.3 mTLS, client-side encryption, tenant isolation, HSM-backed key patterns, and tamper-evident audit. |
+| **ONDC / Beckn Network** | [Source](https://github.com/divyamohan1993/ondc-network-beckn) | Registry, gateway, buyer/seller apps, governance, settlement, and observability. Reference implementation, not a production ONDC participant. |
+
+**Private controlled-review systems:** OneIM-X and Bharat Verifiable Voting. Their source links are intentionally omitted; sanitized architecture and demonstrations can be shared when appropriate.
 
 → **[All 59 products in the work](https://dmj.one/work/)**
 ---
