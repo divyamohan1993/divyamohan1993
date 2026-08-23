@@ -24,8 +24,8 @@ I distinguish live products, research systems, and mentored builds explicitly. R
 | **Parikshan** | Product architect and engineer | Secure remote coding assessment with a Next.js exam service, Python judge sandbox, Cloud Run Jobs, private tests, HMAC integrity, and on-device proctoring signals | [Live demo](https://parikshan.dmj.one) · private source · 105-problem bank and 1,170/1,170 reference passes reported |
 | **[Aether](https://github.com/divyamohan1993/aether)** | Engineer | Edge-first disaster response that compresses SOS audio for poor networks and converts native multilingual audio into a strict dispatch brief | [Live demo](https://aether.dmj.one) · Cloud Run · smoke-tested assessment build |
 | **[dmj.one Trust Services](https://github.com/divyamohan1993/dmjone-trust-services)** | Engineer | ML-DSA-87 signed credentials, gated PDFs, public verification, append-only anchoring, and provable revocation | [Issuer](https://issue.dmj.one) · [Verifier](https://verify.dmj.one) · two scale-to-zero Cloud Run services |
-| **[NFPC Mule Detection](https://github.com/divyamohan1993/nfpc-mule-detection)** | ML engineer | Behavioral, temporal, graph, and anomaly features for money-mule detection using boosted-tree ensembles | Reproducible offline pipeline · competition-grade evaluation documented in the repository |
-| **[dmj.one](https://github.com/dmjone/dmjone)** | Founder and maintainer | A free learning platform for computer science and cybersecurity, sustained since 2022 | [Live platform](https://dmj.one) · public organization repository |
+| **[NFPC Mule Detection](https://github.com/divyamohan1993/nfpc-mule-detection)** | Co-developer and ML engineer | Behavioral, temporal, graph, and anomaly features for money-mule detection using boosted-tree ensembles | [Live demo](https://nfpc.dmj.one) · 208 features · hidden-test AUC-ROC 0.955815 reported |
+| **[dmj.one](https://github.com/dmjone/dmjone)** | Founder and active maintainer | A free learning platform for computer science and cybersecurity, sustained since 2022 | [Live platform](https://dmj.one) · public organization repository |
 
 ## IAM, security, and systems research
 
